@@ -1,5 +1,5 @@
 ---
-layout: Main Page
+layout: Home
 title: "Legendary's Site"
 ---
 
