@@ -1,9 +1,9 @@
 ---
 layout: home
-title: ""
+title: "Legendary's Site"
 ---
 
-# Jekyll-starter
+# Hi, im Legendary
 Purpose of this project is to help you create your first static website with [Jekyll](https://jekyllrb.com/) as easily as possible. It is free, you just need a GitHub account and follow the steps below 😉
 
 ### 📘 About Jekyll
