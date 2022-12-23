@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: Legendary's Site
 title: "Legendary's Site"
 ---
 
