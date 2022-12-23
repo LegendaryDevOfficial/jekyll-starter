@@ -1,10 +1,10 @@
 ---
-layout: Legendary's Site
+layout: Main Page
 title: "Legendary's Site"
 ---
 
-# Hi, im Legendary
-Purpose of this project is to help you create your first static website with [Jekyll](https://jekyllrb.com/) as easily as possible. It is free, you just need a GitHub account and follow the steps below 😉
+# Hi, i'm Legendary
+Hi, i'm Legendary, a YouTuber thats not too popular, sometimes I work on big projects so I don't upload for a bit.
 
 ### 📘 About Jekyll
 Jekyll is one of the [most popular](https://jamstack.org/generators/) static site generators. It takes text written in your favorite markup language (e.g. Markdown, Textile, etc.) and uses layouts (themes) to create a static website. It does not use databases to generate the pages dynamically. Instead of using databases, Jekyll supports loading content from YAML, JSON, CSV, and TSV files. This content can be accessed via [Liquid](https://shopify.github.io/liquid/) templating system. [GitHub Pages](https://pages.github.com/) are powered by Jekyll behind the scenes, so they’re a great way to host your Jekyll-powered website for free. Another possible solution is to host Jekyll sites by [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/).
